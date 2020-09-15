@@ -1,2 +1,3 @@
-###小米官网仿写首页
-   HTML+CSS3+原生JS
+小米官网仿写首页
+ 
+https://sykeswh.github.io/mi/
